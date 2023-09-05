@@ -1,4 +1,4 @@
-     const booklist = document.getElementById('booklist');
+    const booklist = document.getElementById('booklist');
     const form = document.querySelector('form');
 
     // Fetch all books on pages load
